@@ -1,0 +1,8 @@
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Maksim_Yaskevich\Desktop\C#\Loops\Loops\obj\Debug\Loops.pdb
